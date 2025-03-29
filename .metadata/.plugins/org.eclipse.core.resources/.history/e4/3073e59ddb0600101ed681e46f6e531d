@@ -1,0 +1,13 @@
+package variable;
+
+public class Variable {
+
+	public static void main(String[] args) {
+		// 변수는 자료를 저장하기 위한 공간이다. 자료를 변경할 수 있다.
+		String name; // 자료형이 문자인 name이란 변수를 선언
+		
+		name = "man"; // 변수에 값을 저장(초기화)
+		System.out.println(name);
+	}
+
+}

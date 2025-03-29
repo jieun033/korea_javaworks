@@ -1,0 +1,16 @@
+package choice;
+
+public class IfElseEx1
+
+	public static void main(String[] args) {
+	int age = 17;
+	
+	if(age >= 15) {
+		System.out.println("관람가");
+	}
+	System.out.println("나이는" + age + "세 입니다.");
+		
+
+	}
+
+}

@@ -1,0 +1,30 @@
+package operator;
+
+public class operator2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("*** 비교 연산 ***");
+        int nl = 10; int n2 = 20;
+        
+        System.out.println(nl >= n2);
+        System.out.println(nl <= n2);
+        System.out.println(nl == n2);
+        System.out.println(n1 != n2);
+        
+        System.out.println("*** 논리연산 ***");
+        
+        System.out.println((nl <= n2) && (nl == n2));
+        System.out.println((nl <= n2) || (nl ==n2));
+        System.out.println(!(nl == n2));
+        
+        System.out.println("*** 복합 대입 연산 ***");
+        int num3 = 10;
+        
+        System.out.println(num3 = num3 + 2);
+        
+        
+       
+	}
+
+}
