@@ -4,4 +4,11 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="methods.MathEx"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="memberservice.MemberService"/>
+    <fullyQualifiedTypeName name="salestatement.Drink"/>
+    <fullyQualifiedTypeName name="salestatement.Alcohol"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
+    <fullyQualifiedTypeName name="polymorphism.Animal"/>
 </qualifiedTypeNameHistroy>

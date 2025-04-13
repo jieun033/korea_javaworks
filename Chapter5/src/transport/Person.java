@@ -1,7 +1,7 @@
 package transport;
 
 public class Person {
-	private String name; // name
+	private String name; // 이름
 	private int money; // 가진 돈
 	
 	// 생성자
