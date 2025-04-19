@@ -4,10 +4,10 @@ package classes;
 // private - 접근 제어자 (내부 클래스만 접근 가능함.)
 public class BankAccount {
 	private String ano; // 계좌 번호
-	private String owner;
+	private String owner; // 계좌주
 	private int balance; // 잔고
 	
-	//기본 생성자 (이게 퍼블릭이라 테스트에서 객체 생성 가능한 것.)
+	// 기본 생성자 (이게 퍼블릭이라 테스트에서 객체 생성 가능한 것.)
 	public BankAccount() {}
 	
 	public BankAccount(String ano, String owner, int balance) {

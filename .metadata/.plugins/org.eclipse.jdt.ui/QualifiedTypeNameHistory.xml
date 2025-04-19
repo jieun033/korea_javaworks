@@ -8,7 +8,9 @@
     <fullyQualifiedTypeName name="memberservice.MemberService"/>
     <fullyQualifiedTypeName name="salestatement.Drink"/>
     <fullyQualifiedTypeName name="salestatement.Alcohol"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
     <fullyQualifiedTypeName name="polymorphism.Animal"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="chap4.MyMath"/>
 </qualifiedTypeNameHistroy>
