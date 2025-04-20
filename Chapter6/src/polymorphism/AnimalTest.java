@@ -35,14 +35,16 @@ public class AnimalTest {
 	
 	public static void main(String[] args) {
 		AnimalTest aTest = new AnimalTest();
-		// 부모 타입 = 자식 타입 (자동 형변환)
+		// 부모 타입 = 자식 타입 (자동 형변환 upcasting)
 //		Animal human = new Human();
 //		Animal horse = new Horse();
-//		human.move();
-//		horse.move();
+		
+		Human human = new Human();
+		Horse horse = new Horse();
+		human.move();
+		horse.move();
 		
 		// 매개변수를 다형성으로 구현
-		aTest.moveAnimal(new Animal());
 		aTest.moveAnimal(new Human());
 		aTest.moveAnimal(new Horse());
 		aTest.moveAnimal(new Eagle());

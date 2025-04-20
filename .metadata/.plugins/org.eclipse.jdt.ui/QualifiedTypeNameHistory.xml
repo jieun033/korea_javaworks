@@ -13,4 +13,6 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="chap4.MyMath"/>
+    <fullyQualifiedTypeName name="reference.score.Subject"/>
+    <fullyQualifiedTypeName name="polymorphism.downcasting.AnimalTest.Animal"/>
 </qualifiedTypeNameHistroy>
