@@ -17,4 +17,13 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="remote_control.Searchable"/>
+    <fullyQualifiedTypeName name="remote_control.RemoteControl"/>
+    <fullyQualifiedTypeName name="abstract_class.game_level.AdvancedLevel"/>
+    <fullyQualifiedTypeName name="abstract_class.game_level.PlayerLevel"/>
+    <fullyQualifiedTypeName name="java.lang.StringTemplate"/>
+    <fullyQualifiedTypeName name="interfaces.scheduler.Scheduler"/>
+    <fullyQualifiedTypeName name="interfaces.scheduler.RoundRobin"/>
+    <fullyQualifiedTypeName name="interfaces.scheduler.LeastJob"/>
+    <fullyQualifiedTypeName name="interfaces.scheduler.PriorityAllocation"/>
 </qualifiedTypeNameHistroy>
