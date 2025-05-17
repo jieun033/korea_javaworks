@@ -26,4 +26,8 @@
     <fullyQualifiedTypeName name="interfaces.scheduler.RoundRobin"/>
     <fullyQualifiedTypeName name="interfaces.scheduler.LeastJob"/>
     <fullyQualifiedTypeName name="interfaces.scheduler.PriorityAllocation"/>
+    <fullyQualifiedTypeName name="member.MemberArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="collection.stack.Coin"/>
 </qualifiedTypeNameHistroy>
