@@ -39,8 +39,9 @@ public class RegExpTest {
 		
 		if(!Pattern.matches("[가-힣]{2,5}", inputName)) {
 			System.out.println("올바른 한글 이름이 아닙니다.");
+		} else {
+			System.out.println("이름: " + inputName);
 		}
-		System.out.println("이름: " + inputName);
 		
 		sc.close();
 	}
