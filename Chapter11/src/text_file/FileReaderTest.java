@@ -1,4 +1,4 @@
-package writer_read;
+package text_file;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -26,6 +26,9 @@ public class FileReaderTest {
 				if (data == -1) break;
 				System.out.print((char)data); // 문자형 형 변환 후 출력
 			}
+			
+			reader.close();
+			
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {

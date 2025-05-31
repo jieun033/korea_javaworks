@@ -19,3 +19,12 @@
 2025-05-18 12:31:05,558 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2025-05-24 12:33:44,157 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2025-05-25 12:33:56,701 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-25 15:44:07,771 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-31 12:31:17,064 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-31 15:17:26,271 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.7+6-LTS
+2025-05-31 15:17:26,305 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@4069e94{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@113c9f1d{STARTED}}
+2025-05-31 15:17:26,305 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-05-31 15:17:26,321 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@71623199{HTTP/1.1, (http/1.1)}{127.0.0.1:50970}
+2025-05-31 15:17:26,324 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@310ba1f4{STARTING}[12.0.16,sto=0] @10045377ms
+2025-05-31 15:18:47,077 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@310ba1f4{STOPPING}[12.0.16,sto=0]
+2025-05-31 15:18:47,080 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@71623199{HTTP/1.1, (http/1.1)}{127.0.0.1:0}

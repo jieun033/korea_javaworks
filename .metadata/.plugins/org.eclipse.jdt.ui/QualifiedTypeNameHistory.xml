@@ -29,7 +29,6 @@
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="collection.stack.Coin"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="bankapp.BankAccount"/>
     <fullyQualifiedTypeName name="interfaces.inheritance.MyInterface"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
@@ -38,4 +37,14 @@
     <fullyQualifiedTypeName name="interfaces.bookshelf.BookShelf"/>
     <fullyQualifiedTypeName name="interfaces.innerinterface.Button.OnClickListener"/>
     <fullyQualifiedTypeName name="interfaces.innerinterface.Button"/>
+    <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
+    <fullyQualifiedTypeName name="bin_file.InputStreamTest1"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
 </qualifiedTypeNameHistroy>
